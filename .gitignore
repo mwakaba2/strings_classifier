@@ -104,4 +104,10 @@ venv.bak/
 .mypy_cache/
 
 # data
-data/*.jpg
+*.jpg
+*.JPG
+models
+data/strings/double_bass
+data/strings/cello
+data/strings/violin
+data/strings/viola
