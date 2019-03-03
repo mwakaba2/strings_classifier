@@ -17,7 +17,7 @@ Search google images for the following classes
 
 
 ### Train a image classifier
-TODO
+[Train a strings classifier](https://github.com/mwakaba2/strings_classifier/blob/master/notebooks/train_strings_classifier.ipynb)
 
 ### Serve an image classifier locally
 TODO
