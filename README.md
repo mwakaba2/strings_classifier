@@ -19,6 +19,11 @@ Search google images for the following classes
 ### Train a image classifier
 [Train a strings classifier](https://github.com/mwakaba2/strings_classifier/blob/master/notebooks/train_strings_classifier.ipynb)
 
+
+### Inference example
+[Inference](https://github.com/mwakaba2/strings_classifier/blob/master/notebooks/inference_strings_classifier.ipynb)
+
+
 ### Serve an image classifier locally
 TODO
 
